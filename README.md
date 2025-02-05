@@ -2,8 +2,8 @@
 <h3 align="center">A physicist who likes to code!</h3>
 <div align="center">
     
-[Google Scholar](https://scholar.google.com/citations?user=-HBe-lUAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4378--826X-RGB(166%2C205%2C60))](https://orcid.org/0000-0002-4378-826X)
-[Researchgate](https://www.researchgate.net/profile/Michael-Hubbard-2)
+[![Google scholar](https://img.shields.io/badge/Google%20scholar-ffffff?logo=googlescholar&style=flat&color=ffffff&logoColor=4285F4)](https://scholar.google.com/citations?user=-HBe-lUAAAAJ&hl=en) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4378--826X-RGB(166%2C205%2C60))](https://orcid.org/0000-0002-4378-826X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-ffffff?logo=researchgate&style=flat&color=ffffff&logoColor=00CCBB)](https://www.researchgate.net/profile/Michael-Hubbard-2)
 
 </div>
 
